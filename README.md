@@ -12,6 +12,13 @@ supporting 1D, 2D, and 3D walks with statistical analysis.
 - Statistical analysis
 - CMake build system
 
+## How to use
+
+Go to build
+Run './random_walk --steps N --dim D --output {filename}.csv'
+csv file will be stored in ./data
+Move to scripts and run 'python plot_walk.py --file {filename}.csv'
+
 ### Theory
 
 A **random walk** is a discrete stochastic process where a particle takes successive random steps.
