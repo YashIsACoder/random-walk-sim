@@ -1,0 +1,2 @@
+/usr/bin/ar qc librandomwalk_lib.a CMakeFiles/randomwalk_lib.dir/src/Walker.cpp.o CMakeFiles/randomwalk_lib.dir/src/RandomWalk.cpp.o CMakeFiles/randomwalk_lib.dir/src/Statistics.cpp.o
+/usr/bin/ranlib librandomwalk_lib.a
