@@ -14,10 +14,9 @@ supporting 1D, 2D, and 3D walks with statistical analysis.
 
 ## How to use
 
-Go to build
-Run './random_walk --steps N --dim D --output {filename}.csv'
-csv file will be stored in ./data
-Move to scripts and run 'python plot_walk.py --file {filename}.csv'
+1. Go to build
+2. Run './random_walk --steps N --dim D --output {filename}.csv'
+3. Move to scripts and run 'python plot_walk.py --file {filename}.csv'
 
 ### Theory
 
@@ -33,7 +32,7 @@ $$
 \mathbf{X}_n=\sum_{i=1}^{n}S_i,
 $$
 
-where each step $S_i\in\{-1,+1\}$ is independent and identically distributed.  
+where each step $S_i\in\\{-1,+1\\}$ is independent and identically distributed.  
 **Key results:**  
 - **Mean:** $\mathbb{E}[X_n]=0$.  
 - **Variance:** $\mathrm{Var}(X_n)=n$.  
