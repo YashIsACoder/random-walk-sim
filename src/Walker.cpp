@@ -1,34 +1,44 @@
 #include "Walker.hpp"
+#include <random>
 
-Walker::Walker(Dimension dim, unsigned int seed) : dim_(dim), rng_(seed) {}
+Walker::Walker(Dimension dim, StepType type, unsigned int seed)
+    : dim_(dim), type_(type), pos_{}, rng_(seed) {}
+
+void Walker::setSeed(unsigned int s) {
+    rng_.seed(s);
+}
 
 void Walker::step() {
-    switch (dim_) {
-        case Dimension::OneD:
-            pos_.x += direction_(rng_);
-            break;
-        
-        case Dimension::TwoD:
-            if (direction_(rng_) > 0) {
-                pos_.x += direction_(rng_);
-            } else {
-                pos_.y += direction_(rng_);
+    if (type_ == StepType::Lattice) {
+        switch (dim_) {
+            case Dimension::OneD:
+                pos_.x += latticeStep();
+                break;
+            case Dimension::TwoD: {
+                // choose axis uniformly
+                if (coin_(rng_)) pos_.x += latticeStep();
+                else pos_.y += latticeStep();
+                break;
             }
-            break;
-        
-        case Dimension::ThreeD:
-            int axis = std::uniform_int_distribution<int>(0,2)(rng_);
-            if (axis == 0) pos_.x += direction_(rng_);
-            if (axis == 1) pos_.y += direction_(rng_);
-            if (axis == 2) pos_.z += direction_(rng_);
-            break;
+            case Dimension::ThreeD: {
+                std::uniform_int_distribution<int> axis(0,2);
+                int a = axis(rng_);
+                if (a==0) pos_.x += latticeStep();
+                else if (a==1) pos_.y += latticeStep();
+                else pos_.z += latticeStep();
+                break;
+            }
+        }
+    } else { // Gaussian step: add rounded gaussian value to each coord depending on dim
+        if (dim_ == Dimension::OneD) {
+            pos_.x += static_cast<int>(std::round(gauss_(rng_)));
+        } else if (dim_ == Dimension::TwoD) {
+            pos_.x += static_cast<int>(std::round(gauss_(rng_)));
+            pos_.y += static_cast<int>(std::round(gauss_(rng_)));
+        } else {
+            pos_.x += static_cast<int>(std::round(gauss_(rng_)));
+            pos_.y += static_cast<int>(std::round(gauss_(rng_)));
+            pos_.z += static_cast<int>(std::round(gauss_(rng_)));
+        }
     }
-}
-
-void Walker::reset() {
-    pos_ = {};
-}
-
-const Position& Walker::position() const noexcept {
-    return pos_;
 }

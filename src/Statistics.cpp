@@ -1,22 +1,21 @@
 #include "Statistics.hpp"
 #include <cmath>
 
-// mean squared displacement
 namespace Statistics {
-    double MSD(const std::vector<Position>& path) {
-        double sum = 0;
-        double count = static_cast<double>(path.size());
 
-        for (const auto &p: path) {
-            sum += p.x*p.x + p.y*p.y+ p.z*p.z;
-        }
+double meanSquaredDisplacement(const std::vector<Position>& path) {
+    if (path.empty()) return 0.0;
+    double sum = 0.0;
+    for (const auto& p : path) {
+        sum += static_cast<double>(p.x*p.x + p.y*p.y + p.z*p.z);
+    }
+    return sum / static_cast<double>(path.size());
+}
 
-        return sum / count;
-    }
-    // end to end distance
-    double EED(const std::vector<Position>& path) {
-        const auto &p = path.back();
-        double norm = std::sqrt(p.x*p.x + p.y*p.y + p.z*p.z);
-        return norm;
-    }
+double endToEndDistance(const std::vector<Position>& path) {
+    if (path.empty()) return 0.0;
+    const auto& p = path.back();
+    return std::sqrt(static_cast<double>(p.x*p.x + p.y*p.y + p.z*p.z));
+}
+
 }

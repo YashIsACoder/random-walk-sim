@@ -43,7 +43,7 @@ events:
       - "/Library/Apple/usr/bin/"
       - "/Users/yash/Docs/sunswift/infotainment/flutter/bin/"
       - "/opt/gradle/gradle-8.8/bin/"
-      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts/"
+      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/21/bin/uname"
       - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/gradle/latest/bin/uname"
@@ -91,7 +91,7 @@ events:
         - "/Users/yash/Docs/sunswift/infotainment/flutter/bin"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
-        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts"
+        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
   -
@@ -145,7 +145,7 @@ events:
       - "/Library/Apple/usr/bin/"
       - "/Users/yash/Docs/sunswift/infotainment/flutter/bin/"
       - "/opt/gradle/gradle-8.8/bin/"
-      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts/"
+      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/21/bin/gmake"
       - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/gradle/latest/bin/gmake"
@@ -170,7 +170,7 @@ events:
       - "/Library/Apple/usr/bin/gmake"
       - "/Users/yash/Docs/sunswift/infotainment/flutter/bin/gmake"
       - "/opt/gradle/gradle-8.8/bin/gmake"
-      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts/gmake"
+      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts/gmake"
       - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/21/bin/make"
       - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/gradle/latest/bin/make"
       - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/maven/latest/bin/make"
@@ -217,7 +217,7 @@ events:
         - "/Users/yash/Docs/sunswift/infotainment/flutter/bin"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
-        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts"
+        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
   -
@@ -269,7 +269,7 @@ events:
       - "/Library/Apple/usr/bin/"
       - "/Users/yash/Docs/sunswift/infotainment/flutter/bin/"
       - "/opt/gradle/gradle-8.8/bin/"
-      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts/"
+      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/21/bin/c++"
       - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/gradle/latest/bin/c++"
@@ -317,7 +317,7 @@ events:
         - "/Users/yash/Docs/sunswift/infotainment/flutter/bin"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
-        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts"
+        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
   -
@@ -378,7 +378,7 @@ events:
         - "/Users/yash/Docs/sunswift/infotainment/flutter/bin"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
-        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts"
+        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
   -
@@ -487,7 +487,7 @@ events:
       - "/Library/Apple/usr/bin/"
       - "/Users/yash/Docs/sunswift/infotainment/flutter/bin/"
       - "/opt/gradle/gradle-8.8/bin/"
-      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts/"
+      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts/"
     found: "/usr/bin/ar"
     search_context:
       ENV{PATH}:
@@ -522,7 +522,7 @@ events:
         - "/Users/yash/Docs/sunswift/infotainment/flutter/bin"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
-        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts"
+        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
   -
@@ -568,7 +568,7 @@ events:
       - "/Library/Apple/usr/bin/"
       - "/Users/yash/Docs/sunswift/infotainment/flutter/bin/"
       - "/opt/gradle/gradle-8.8/bin/"
-      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts/"
+      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts/"
     found: "/usr/bin/ranlib"
     search_context:
       ENV{PATH}:
@@ -603,7 +603,7 @@ events:
         - "/Users/yash/Docs/sunswift/infotainment/flutter/bin"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
-        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts"
+        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
   -
@@ -649,7 +649,7 @@ events:
       - "/Library/Apple/usr/bin/"
       - "/Users/yash/Docs/sunswift/infotainment/flutter/bin/"
       - "/opt/gradle/gradle-8.8/bin/"
-      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts/"
+      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts/"
     found: "/usr/bin/strip"
     search_context:
       ENV{PATH}:
@@ -684,7 +684,7 @@ events:
         - "/Users/yash/Docs/sunswift/infotainment/flutter/bin"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
-        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts"
+        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
   -
@@ -730,7 +730,7 @@ events:
       - "/Library/Apple/usr/bin/"
       - "/Users/yash/Docs/sunswift/infotainment/flutter/bin/"
       - "/opt/gradle/gradle-8.8/bin/"
-      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts/"
+      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts/"
     found: "/usr/bin/ld"
     search_context:
       ENV{PATH}:
@@ -765,7 +765,7 @@ events:
         - "/Users/yash/Docs/sunswift/infotainment/flutter/bin"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
-        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts"
+        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
   -
@@ -811,7 +811,7 @@ events:
       - "/Library/Apple/usr/bin/"
       - "/Users/yash/Docs/sunswift/infotainment/flutter/bin/"
       - "/opt/gradle/gradle-8.8/bin/"
-      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts/"
+      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts/"
     found: "/usr/bin/nm"
     search_context:
       ENV{PATH}:
@@ -846,7 +846,7 @@ events:
         - "/Users/yash/Docs/sunswift/infotainment/flutter/bin"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
-        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts"
+        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
   -
@@ -892,7 +892,7 @@ events:
       - "/Library/Apple/usr/bin/"
       - "/Users/yash/Docs/sunswift/infotainment/flutter/bin/"
       - "/opt/gradle/gradle-8.8/bin/"
-      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts/"
+      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts/"
     found: "/usr/bin/objdump"
     search_context:
       ENV{PATH}:
@@ -927,7 +927,7 @@ events:
         - "/Users/yash/Docs/sunswift/infotainment/flutter/bin"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
-        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts"
+        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
   -
@@ -973,7 +973,7 @@ events:
       - "/Library/Apple/usr/bin/"
       - "/Users/yash/Docs/sunswift/infotainment/flutter/bin/"
       - "/opt/gradle/gradle-8.8/bin/"
-      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts/"
+      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "/usr/bin/objcopy"
       - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/21/bin/objcopy"
@@ -998,7 +998,7 @@ events:
       - "/Library/Apple/usr/bin/objcopy"
       - "/Users/yash/Docs/sunswift/infotainment/flutter/bin/objcopy"
       - "/opt/gradle/gradle-8.8/bin/objcopy"
-      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts/objcopy"
+      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts/objcopy"
     found: false
     search_context:
       ENV{PATH}:
@@ -1033,7 +1033,7 @@ events:
         - "/Users/yash/Docs/sunswift/infotainment/flutter/bin"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
-        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts"
+        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
   -
@@ -1079,7 +1079,7 @@ events:
       - "/Library/Apple/usr/bin/"
       - "/Users/yash/Docs/sunswift/infotainment/flutter/bin/"
       - "/opt/gradle/gradle-8.8/bin/"
-      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts/"
+      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "/usr/bin/readelf"
       - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/21/bin/readelf"
@@ -1104,7 +1104,7 @@ events:
       - "/Library/Apple/usr/bin/readelf"
       - "/Users/yash/Docs/sunswift/infotainment/flutter/bin/readelf"
       - "/opt/gradle/gradle-8.8/bin/readelf"
-      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts/readelf"
+      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts/readelf"
     found: false
     search_context:
       ENV{PATH}:
@@ -1139,7 +1139,7 @@ events:
         - "/Users/yash/Docs/sunswift/infotainment/flutter/bin"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
-        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts"
+        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
   -
@@ -1185,7 +1185,7 @@ events:
       - "/Library/Apple/usr/bin/"
       - "/Users/yash/Docs/sunswift/infotainment/flutter/bin/"
       - "/opt/gradle/gradle-8.8/bin/"
-      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts/"
+      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "/usr/bin/dlltool"
       - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/21/bin/dlltool"
@@ -1210,7 +1210,7 @@ events:
       - "/Library/Apple/usr/bin/dlltool"
       - "/Users/yash/Docs/sunswift/infotainment/flutter/bin/dlltool"
       - "/opt/gradle/gradle-8.8/bin/dlltool"
-      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts/dlltool"
+      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts/dlltool"
     found: false
     search_context:
       ENV{PATH}:
@@ -1245,7 +1245,7 @@ events:
         - "/Users/yash/Docs/sunswift/infotainment/flutter/bin"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
-        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts"
+        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
   -
@@ -1291,7 +1291,7 @@ events:
       - "/Library/Apple/usr/bin/"
       - "/Users/yash/Docs/sunswift/infotainment/flutter/bin/"
       - "/opt/gradle/gradle-8.8/bin/"
-      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts/"
+      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "/usr/bin/addr2line"
       - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/21/bin/addr2line"
@@ -1316,7 +1316,7 @@ events:
       - "/Library/Apple/usr/bin/addr2line"
       - "/Users/yash/Docs/sunswift/infotainment/flutter/bin/addr2line"
       - "/opt/gradle/gradle-8.8/bin/addr2line"
-      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts/addr2line"
+      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts/addr2line"
     found: false
     search_context:
       ENV{PATH}:
@@ -1351,7 +1351,7 @@ events:
         - "/Users/yash/Docs/sunswift/infotainment/flutter/bin"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
-        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts"
+        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
   -
@@ -1397,7 +1397,7 @@ events:
       - "/Library/Apple/usr/bin/"
       - "/Users/yash/Docs/sunswift/infotainment/flutter/bin/"
       - "/opt/gradle/gradle-8.8/bin/"
-      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts/"
+      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "/usr/bin/tapi"
       - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/21/bin/tapi"
@@ -1422,7 +1422,7 @@ events:
       - "/Library/Apple/usr/bin/tapi"
       - "/Users/yash/Docs/sunswift/infotainment/flutter/bin/tapi"
       - "/opt/gradle/gradle-8.8/bin/tapi"
-      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts/tapi"
+      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts/tapi"
     found: false
     search_context:
       ENV{PATH}:
@@ -1457,7 +1457,7 @@ events:
         - "/Users/yash/Docs/sunswift/infotainment/flutter/bin"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
-        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts"
+        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
   -
@@ -1503,7 +1503,7 @@ events:
       - "/Library/Apple/usr/bin/"
       - "/Users/yash/Docs/sunswift/infotainment/flutter/bin/"
       - "/opt/gradle/gradle-8.8/bin/"
-      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts/"
+      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/21/bin/install_name_tool"
       - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/gradle/latest/bin/install_name_tool"
@@ -1551,7 +1551,7 @@ events:
         - "/Users/yash/Docs/sunswift/infotainment/flutter/bin"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
-        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.16.0-darwin-arm64/bundled/scripts/noConfigScripts"
+        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts"
         - "/opt/gradle/gradle-8.8/bin"
         - "/opt/gradle/gradle-8.8/bin"
       CMAKE_INSTALL_PREFIX: "/usr/local"
@@ -1564,8 +1564,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "/Users/yash/Docs/All Projects/cpp_stuff/random-walk-sim/build/CMakeFiles/CMakeScratch/TryCompile-faNW9h"
-      binary: "/Users/yash/Docs/All Projects/cpp_stuff/random-walk-sim/build/CMakeFiles/CMakeScratch/TryCompile-faNW9h"
+      source: "/Users/yash/Docs/All Projects/cpp_stuff/random-walk-sim/build/CMakeFiles/CMakeScratch/TryCompile-wEpWvv"
+      binary: "/Users/yash/Docs/All Projects/cpp_stuff/random-walk-sim/build/CMakeFiles/CMakeScratch/TryCompile-wEpWvv"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -1578,19 +1578,19 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: '/Users/yash/Docs/All Projects/cpp_stuff/random-walk-sim/build/CMakeFiles/CMakeScratch/TryCompile-faNW9h'
+        Change Dir: '/Users/yash/Docs/All Projects/cpp_stuff/random-walk-sim/build/CMakeFiles/CMakeScratch/TryCompile-wEpWvv'
         
-        Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_b636f/fast
-        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_b636f.dir/build.make CMakeFiles/cmTC_b636f.dir/build
-        Building CXX object CMakeFiles/cmTC_b636f.dir/CMakeCXXCompilerABI.cpp.o
-        /usr/bin/c++   -arch arm64   -v -Wl,-v -MD -MT CMakeFiles/cmTC_b636f.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_b636f.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_b636f.dir/CMakeCXXCompilerABI.cpp.o -c /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+        Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_3806b/fast
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_3806b.dir/build.make CMakeFiles/cmTC_3806b.dir/build
+        Building CXX object CMakeFiles/cmTC_3806b.dir/CMakeCXXCompilerABI.cpp.o
+        /usr/bin/c++   -arch arm64   -v -Wl,-v -MD -MT CMakeFiles/cmTC_3806b.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_3806b.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_3806b.dir/CMakeCXXCompilerABI.cpp.o -c /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp
         Apple clang version 17.0.0 (clang-1700.0.13.5)
         Target: arm64-apple-darwin24.5.0
         Thread model: posix
         InstalledDir: /Library/Developer/CommandLineTools/usr/bin
         clang++: warning: -Wl,-v: 'linker' input unused [-Wunused-command-line-argument]
         ignoring nonexistent directory "/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"
-         "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx15.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=15.5 -fvisibility-inlines-hidden-static-local-var -fdefine-target-os-macros -fno-assume-unique-vtables -fno-modulemap-allow-subdirectory-search -target-cpu apple-m1 -target-feature +zcm -target-feature +zcz -target-feature +v8.5a -target-feature +aes -target-feature +altnzcv -target-feature +ccdp -target-feature +complxnum -target-feature +crc -target-feature +dotprod -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +fptoint -target-feature +fullfp16 -target-feature +jsconv -target-feature +lse -target-feature +neon -target-feature +pauth -target-feature +perfmon -target-feature +predres -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sb -target-feature +sha2 -target-feature +sha3 -target-feature +specrestrict -target-feature +ssbs -target-abi darwinpcs -debugger-tuning=lldb "-fdebug-compilation-dir=/Users/yash/Docs/All Projects/cpp_stuff/random-walk-sim/build/CMakeFiles/CMakeScratch/TryCompile-faNW9h" -target-linker-version 1167.5 -v "-fcoverage-compilation-dir=/Users/yash/Docs/All Projects/cpp_stuff/random-walk-sim/build/CMakeFiles/CMakeScratch/TryCompile-faNW9h" -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/17 -dependency-file CMakeFiles/cmTC_b636f.dir/CMakeCXXCompilerABI.cpp.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_b636f.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/17/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -fdeprecated-macro -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fno-cxx-modules -fskip-odr-check-in-gmf -fcxx-exceptions -fexceptions -fmax-type-align=16 -fcommon -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -clang-vendor-feature=+disableAtImportPrivateFrameworkInImplementationError -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_b636f.dir/CMakeCXXCompilerABI.cpp.o -x c++ /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+         "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx15.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=15.5 -fvisibility-inlines-hidden-static-local-var -fdefine-target-os-macros -fno-assume-unique-vtables -fno-modulemap-allow-subdirectory-search -target-cpu apple-m1 -target-feature +zcm -target-feature +zcz -target-feature +v8.5a -target-feature +aes -target-feature +altnzcv -target-feature +ccdp -target-feature +complxnum -target-feature +crc -target-feature +dotprod -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +fptoint -target-feature +fullfp16 -target-feature +jsconv -target-feature +lse -target-feature +neon -target-feature +pauth -target-feature +perfmon -target-feature +predres -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sb -target-feature +sha2 -target-feature +sha3 -target-feature +specrestrict -target-feature +ssbs -target-abi darwinpcs -debugger-tuning=lldb "-fdebug-compilation-dir=/Users/yash/Docs/All Projects/cpp_stuff/random-walk-sim/build/CMakeFiles/CMakeScratch/TryCompile-wEpWvv" -target-linker-version 1167.5 -v "-fcoverage-compilation-dir=/Users/yash/Docs/All Projects/cpp_stuff/random-walk-sim/build/CMakeFiles/CMakeScratch/TryCompile-wEpWvv" -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/17 -dependency-file CMakeFiles/cmTC_3806b.dir/CMakeCXXCompilerABI.cpp.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_3806b.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/17/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -fdeprecated-macro -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fno-cxx-modules -fskip-odr-check-in-gmf -fcxx-exceptions -fexceptions -fmax-type-align=16 -fcommon -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -clang-vendor-feature=+disableAtImportPrivateFrameworkInImplementationError -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_3806b.dir/CMakeCXXCompilerABI.cpp.o -x c++ /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp
         clang -cc1 version 17.0.0 (clang-1700.0.13.5) default target arm64-apple-darwin24.5.0
         ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include"
         ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/SubFrameworks"
@@ -1604,13 +1604,13 @@ events:
          /Library/Developer/CommandLineTools/usr/include
          /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks (framework directory)
         End of search list.
-        Linking CXX executable cmTC_b636f
-        /opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b636f.dir/link.txt --verbose=1
+        Linking CXX executable cmTC_3806b
+        /opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3806b.dir/link.txt --verbose=1
         Apple clang version 17.0.0 (clang-1700.0.13.5)
         Target: arm64-apple-darwin24.5.0
         Thread model: posix
         InstalledDir: /Library/Developer/CommandLineTools/usr/bin
-         "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 15.0.0 15.5 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_b636f -L/usr/local/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_b636f.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/17/lib/darwin/libclang_rt.osx.a
+         "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 15.0.0 15.5 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_3806b -L/usr/local/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_3806b.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/17/lib/darwin/libclang_rt.osx.a
         @(#)PROGRAM:ld PROJECT:ld-1167.5
         BUILD 01:45:05 Apr 30 2025
         configured to support archs: armv6 armv7 armv7s arm64 arm64e arm64_32 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em
@@ -1623,7 +1623,7 @@ events:
         	/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/swift
         Framework search paths:
         	/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks
-        /usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_b636f.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_b636f
+        /usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_3806b.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_3806b
         
       exitCode: 0
   -
@@ -1669,19 +1669,19 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: '/Users/yash/Docs/All Projects/cpp_stuff/random-walk-sim/build/CMakeFiles/CMakeScratch/TryCompile-faNW9h']
+        ignore line: [Change Dir: '/Users/yash/Docs/All Projects/cpp_stuff/random-walk-sim/build/CMakeFiles/CMakeScratch/TryCompile-wEpWvv']
         ignore line: []
-        ignore line: [Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_b636f/fast]
-        ignore line: [/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_b636f.dir/build.make CMakeFiles/cmTC_b636f.dir/build]
-        ignore line: [Building CXX object CMakeFiles/cmTC_b636f.dir/CMakeCXXCompilerABI.cpp.o]
-        ignore line: [/usr/bin/c++   -arch arm64   -v -Wl -v -MD -MT CMakeFiles/cmTC_b636f.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_b636f.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_b636f.dir/CMakeCXXCompilerABI.cpp.o -c /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_3806b/fast]
+        ignore line: [/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_3806b.dir/build.make CMakeFiles/cmTC_3806b.dir/build]
+        ignore line: [Building CXX object CMakeFiles/cmTC_3806b.dir/CMakeCXXCompilerABI.cpp.o]
+        ignore line: [/usr/bin/c++   -arch arm64   -v -Wl -v -MD -MT CMakeFiles/cmTC_3806b.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_3806b.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_3806b.dir/CMakeCXXCompilerABI.cpp.o -c /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [Apple clang version 17.0.0 (clang-1700.0.13.5)]
         ignore line: [Target: arm64-apple-darwin24.5.0]
         ignore line: [Thread model: posix]
         ignore line: [InstalledDir: /Library/Developer/CommandLineTools/usr/bin]
         ignore line: [clang++: warning: -Wl -v: 'linker' input unused [-Wunused-command-line-argument]]
         ignore line: [ignoring nonexistent directory "/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"]
-        ignore line: [ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx15.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=15.5 -fvisibility-inlines-hidden-static-local-var -fdefine-target-os-macros -fno-assume-unique-vtables -fno-modulemap-allow-subdirectory-search -target-cpu apple-m1 -target-feature +zcm -target-feature +zcz -target-feature +v8.5a -target-feature +aes -target-feature +altnzcv -target-feature +ccdp -target-feature +complxnum -target-feature +crc -target-feature +dotprod -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +fptoint -target-feature +fullfp16 -target-feature +jsconv -target-feature +lse -target-feature +neon -target-feature +pauth -target-feature +perfmon -target-feature +predres -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sb -target-feature +sha2 -target-feature +sha3 -target-feature +specrestrict -target-feature +ssbs -target-abi darwinpcs -debugger-tuning=lldb "-fdebug-compilation-dir=/Users/yash/Docs/All Projects/cpp_stuff/random-walk-sim/build/CMakeFiles/CMakeScratch/TryCompile-faNW9h" -target-linker-version 1167.5 -v "-fcoverage-compilation-dir=/Users/yash/Docs/All Projects/cpp_stuff/random-walk-sim/build/CMakeFiles/CMakeScratch/TryCompile-faNW9h" -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/17 -dependency-file CMakeFiles/cmTC_b636f.dir/CMakeCXXCompilerABI.cpp.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_b636f.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/17/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -fdeprecated-macro -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fno-cxx-modules -fskip-odr-check-in-gmf -fcxx-exceptions -fexceptions -fmax-type-align=16 -fcommon -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -clang-vendor-feature=+disableAtImportPrivateFrameworkInImplementationError -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_b636f.dir/CMakeCXXCompilerABI.cpp.o -x c++ /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx15.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=15.5 -fvisibility-inlines-hidden-static-local-var -fdefine-target-os-macros -fno-assume-unique-vtables -fno-modulemap-allow-subdirectory-search -target-cpu apple-m1 -target-feature +zcm -target-feature +zcz -target-feature +v8.5a -target-feature +aes -target-feature +altnzcv -target-feature +ccdp -target-feature +complxnum -target-feature +crc -target-feature +dotprod -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +fptoint -target-feature +fullfp16 -target-feature +jsconv -target-feature +lse -target-feature +neon -target-feature +pauth -target-feature +perfmon -target-feature +predres -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sb -target-feature +sha2 -target-feature +sha3 -target-feature +specrestrict -target-feature +ssbs -target-abi darwinpcs -debugger-tuning=lldb "-fdebug-compilation-dir=/Users/yash/Docs/All Projects/cpp_stuff/random-walk-sim/build/CMakeFiles/CMakeScratch/TryCompile-wEpWvv" -target-linker-version 1167.5 -v "-fcoverage-compilation-dir=/Users/yash/Docs/All Projects/cpp_stuff/random-walk-sim/build/CMakeFiles/CMakeScratch/TryCompile-wEpWvv" -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/17 -dependency-file CMakeFiles/cmTC_3806b.dir/CMakeCXXCompilerABI.cpp.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_3806b.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/17/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -fdeprecated-macro -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fno-cxx-modules -fskip-odr-check-in-gmf -fcxx-exceptions -fexceptions -fmax-type-align=16 -fcommon -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -clang-vendor-feature=+disableAtImportPrivateFrameworkInImplementationError -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_3806b.dir/CMakeCXXCompilerABI.cpp.o -x c++ /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [clang -cc1 version 17.0.0 (clang-1700.0.13.5) default target arm64-apple-darwin24.5.0]
         ignore line: [ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include"]
         ignore line: [ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/SubFrameworks"]
@@ -1695,13 +1695,13 @@ events:
         ignore line: [ /Library/Developer/CommandLineTools/usr/include]
         ignore line: [ /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks (framework directory)]
         ignore line: [End of search list.]
-        ignore line: [Linking CXX executable cmTC_b636f]
-        ignore line: [/opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b636f.dir/link.txt --verbose=1]
+        ignore line: [Linking CXX executable cmTC_3806b]
+        ignore line: [/opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3806b.dir/link.txt --verbose=1]
         ignore line: [Apple clang version 17.0.0 (clang-1700.0.13.5)]
         ignore line: [Target: arm64-apple-darwin24.5.0]
         ignore line: [Thread model: posix]
         ignore line: [InstalledDir: /Library/Developer/CommandLineTools/usr/bin]
-        link line: [ "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 15.0.0 15.5 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_b636f -L/usr/local/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_b636f.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/17/lib/darwin/libclang_rt.osx.a]
+        link line: [ "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 15.0.0 15.5 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_3806b -L/usr/local/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_3806b.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/17/lib/darwin/libclang_rt.osx.a]
           arg [/Library/Developer/CommandLineTools/usr/bin/ld] ==> ignore
           arg [-demangle] ==> ignore
           arg [-lto_library] ==> ignore, skip following value
@@ -1718,12 +1718,12 @@ events:
           arg [-mllvm] ==> ignore
           arg [-enable-linkonceodr-outlining] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_b636f] ==> ignore
+          arg [cmTC_3806b] ==> ignore
           arg [-L/usr/local/lib] ==> dir [/usr/local/lib]
           arg [-search_paths_first] ==> ignore
           arg [-headerpad_max_install_names] ==> ignore
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_b636f.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+          arg [CMakeFiles/cmTC_3806b.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
           arg [-lc++] ==> lib [c++]
           arg [-lSystem] ==> lib [System]
           arg [/Library/Developer/CommandLineTools/usr/lib/clang/17/lib/darwin/libclang_rt.osx.a] ==> lib [/Library/Developer/CommandLineTools/usr/lib/clang/17/lib/darwin/libclang_rt.osx.a]
@@ -1758,4 +1758,530 @@ events:
       will use ld-classic for: armv6 armv7 armv7s i386 armv6m armv7k armv7m armv7em
       LTO support using: LLVM version 17.0.0 (static support for 29, runtime is 29)
       TAPI support using: Apple TAPI version 17.0.0 (tapi-1700.0.3.5)
+  -
+    kind: "find-v1"
+    backtrace:
+      - "/opt/homebrew/lib/cmake/SFML/SFMLConfig.cmake:93 (find_path)"
+      - "CMakeLists.txt:7 (find_package)"
+    mode: "path"
+    variable: "SFML_DOC_DIR"
+    description: "Path to a file."
+    settings:
+      SearchFramework: "FIRST"
+      SearchAppBundle: "FIRST"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "SFML.tag"
+    candidate_directories:
+      - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/21/bin/SFML/doc/"
+      - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/21/bin/share/doc/SFML/"
+      - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/21/bin/"
+      - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/gradle/latest/bin/SFML/doc/"
+      - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/gradle/latest/bin/share/doc/SFML/"
+      - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/gradle/latest/bin/"
+      - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/maven/latest/bin/SFML/doc/"
+      - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/maven/latest/bin/share/doc/SFML/"
+      - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/maven/latest/bin/"
+      - "/opt/homebrew/opt/postgresql@15/bin/SFML/doc/"
+      - "/opt/homebrew/opt/postgresql@15/bin/share/doc/SFML/"
+      - "/opt/homebrew/opt/postgresql@15/bin/"
+      - "/Users/yash/miniconda3/bin/SFML/doc/"
+      - "/Users/yash/miniconda3/bin/share/doc/SFML/"
+      - "/Users/yash/miniconda3/bin/"
+      - "/Users/yash/miniconda3/condabin/SFML/doc/"
+      - "/Users/yash/miniconda3/condabin/share/doc/SFML/"
+      - "/Users/yash/miniconda3/condabin/"
+      - "/opt/homebrew/bin/SFML/doc/"
+      - "/opt/homebrew/bin/share/doc/SFML/"
+      - "/opt/homebrew/bin/"
+      - "/opt/homebrew/sbin/SFML/doc/"
+      - "/opt/homebrew/sbin/share/doc/SFML/"
+      - "/opt/homebrew/sbin/"
+      - "/Library/Frameworks/Python.framework/Versions/3.9/bin/SFML/doc/"
+      - "/Library/Frameworks/Python.framework/Versions/3.9/bin/share/doc/SFML/"
+      - "/Library/Frameworks/Python.framework/Versions/3.9/bin/"
+      - "/Library/Frameworks/Python.framework/Versions/3.11/bin/SFML/doc/"
+      - "/Library/Frameworks/Python.framework/Versions/3.11/bin/share/doc/SFML/"
+      - "/Library/Frameworks/Python.framework/Versions/3.11/bin/"
+      - "/usr/local/bin/SFML/doc/"
+      - "/usr/local/bin/share/doc/SFML/"
+      - "/usr/local/bin/"
+      - "/System/Cryptexes/App/usr/bin/SFML/doc/"
+      - "/System/Cryptexes/App/usr/bin/share/doc/SFML/"
+      - "/System/Cryptexes/App/usr/bin/"
+      - "/usr/bin/SFML/doc/"
+      - "/usr/bin/share/doc/SFML/"
+      - "/usr/bin/"
+      - "/bin/SFML/doc/"
+      - "/bin/share/doc/SFML/"
+      - "/bin/"
+      - "/usr/sbin/SFML/doc/"
+      - "/usr/sbin/share/doc/SFML/"
+      - "/usr/sbin/"
+      - "/sbin/SFML/doc/"
+      - "/sbin/share/doc/SFML/"
+      - "/sbin/"
+      - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/SFML/doc/"
+      - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/share/doc/SFML/"
+      - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/"
+      - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/SFML/doc/"
+      - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/share/doc/SFML/"
+      - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/"
+      - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/SFML/doc/"
+      - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/share/doc/SFML/"
+      - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
+      - "/opt/X11/bin/SFML/doc/"
+      - "/opt/X11/bin/share/doc/SFML/"
+      - "/opt/X11/bin/"
+      - "/Library/Apple/usr/bin/SFML/doc/"
+      - "/Library/Apple/usr/bin/share/doc/SFML/"
+      - "/Library/Apple/usr/bin/"
+      - "/Users/yash/Docs/sunswift/infotainment/flutter/bin/SFML/doc/"
+      - "/Users/yash/Docs/sunswift/infotainment/flutter/bin/share/doc/SFML/"
+      - "/Users/yash/Docs/sunswift/infotainment/flutter/bin/"
+      - "/opt/gradle/gradle-8.8/bin/SFML/doc/"
+      - "/opt/gradle/gradle-8.8/bin/share/doc/SFML/"
+      - "/opt/gradle/gradle-8.8/bin/"
+      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts/SFML/doc/"
+      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts/share/doc/SFML/"
+      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts/"
+      - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/SFML/doc/"
+      - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/share/doc/SFML/"
+      - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/"
+      - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/SFML/doc/"
+      - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/share/doc/SFML/"
+      - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/"
+      - "/opt/homebrew/include/SFML/doc/"
+      - "/opt/homebrew/include/share/doc/SFML/"
+      - "/opt/homebrew/include/"
+      - "/opt/homebrew/SFML/doc/"
+      - "/opt/homebrew/share/doc/SFML/"
+      - "/opt/homebrew/"
+      - "/usr/local/include/SFML/doc/"
+      - "/usr/local/include/share/doc/SFML/"
+      - "/usr/local/include/"
+      - "/usr/local/SFML/doc/"
+      - "/usr/local/share/doc/SFML/"
+      - "/usr/local/"
+      - "/usr/include/SFML/doc/"
+      - "/usr/include/share/doc/SFML/"
+      - "/usr/include/"
+      - "/usr/SFML/doc/"
+      - "/usr/share/doc/SFML/"
+      - "/usr/"
+      - "/include/SFML/doc/"
+      - "/include/share/doc/SFML/"
+      - "/include/"
+      - "/usr/X11R6/include/SFML/doc/"
+      - "/usr/X11R6/include/share/doc/SFML/"
+      - "/usr/X11R6/include/"
+      - "/usr/X11R6/SFML/doc/"
+      - "/usr/X11R6/share/doc/SFML/"
+      - "/usr/X11R6/"
+      - "/usr/pkg/include/SFML/doc/"
+      - "/usr/pkg/include/share/doc/SFML/"
+      - "/usr/pkg/include/"
+      - "/usr/pkg/SFML/doc/"
+      - "/usr/pkg/share/doc/SFML/"
+      - "/usr/pkg/"
+      - "/opt/include/SFML/doc/"
+      - "/opt/include/share/doc/SFML/"
+      - "/opt/include/"
+      - "/opt/SFML/doc/"
+      - "/opt/share/doc/SFML/"
+      - "/opt/"
+      - "/sw/include/SFML/doc/"
+      - "/sw/include/share/doc/SFML/"
+      - "/sw/include/"
+      - "/sw/SFML/doc/"
+      - "/sw/share/doc/SFML/"
+      - "/sw/"
+      - "/opt/local/include/SFML/doc/"
+      - "/opt/local/include/share/doc/SFML/"
+      - "/opt/local/include/"
+      - "/opt/local/SFML/doc/"
+      - "/opt/local/share/doc/SFML/"
+      - "/opt/local/"
+      - "/usr/include/X11/SFML/doc/"
+      - "/usr/include/X11/share/doc/SFML/"
+      - "/usr/include/X11/"
+      - "/Users/yash/Library/Frameworks/SFML/doc/"
+      - "/Users/yash/Library/Frameworks/share/doc/SFML/"
+      - "/Users/yash/Library/Frameworks/"
+      - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks/SFML/doc/"
+      - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks/share/doc/SFML/"
+      - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks/"
+      - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Network/Library/Frameworks/SFML/doc/"
+      - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Network/Library/Frameworks/share/doc/SFML/"
+      - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Network/Library/Frameworks/"
+      - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/SFML/doc/"
+      - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/share/doc/SFML/"
+      - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/"
+      - "/Library/Developer/CommandLineTools/Library/Frameworks/SFML/doc/"
+      - "/Library/Developer/CommandLineTools/Library/Frameworks/share/doc/SFML/"
+      - "/Library/Developer/CommandLineTools/Library/Frameworks/"
+      - "/Library/Frameworks/SFML/doc/"
+      - "/Library/Frameworks/share/doc/SFML/"
+      - "/Library/Frameworks/"
+      - "/Network/Library/Frameworks/SFML/doc/"
+      - "/Network/Library/Frameworks/share/doc/SFML/"
+      - "/Network/Library/Frameworks/"
+      - "/System/Library/Frameworks/SFML/doc/"
+      - "/System/Library/Frameworks/share/doc/SFML/"
+      - "/System/Library/Frameworks/"
+      - "/opt/homebrew/SFML/doc/"
+      - "/opt/homebrew/share/doc/SFML/"
+      - "/opt/homebrew/"
+      - "/usr/local/SFML/doc/"
+      - "/usr/local/share/doc/SFML/"
+      - "/usr/local/"
+      - "/usr/SFML/doc/"
+      - "/usr/share/doc/SFML/"
+      - "/usr/"
+      - "/sw/SFML/doc/"
+      - "/sw/share/doc/SFML/"
+      - "/sw/"
+      - "/opt/local/SFML/doc/"
+      - "/opt/local/share/doc/SFML/"
+      - "/opt/local/"
+      - "/opt/csw/SFML/doc/"
+      - "/opt/csw/share/doc/SFML/"
+      - "/opt/csw/"
+      - "/opt/SFML/doc/"
+      - "/opt/share/doc/SFML/"
+      - "/opt/"
+    searched_directories:
+      - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/21/bin/SFML/doc/SFML.tag"
+      - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/21/bin/share/doc/SFML/SFML.tag"
+      - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/21/bin/SFML.tag"
+      - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/gradle/latest/bin/SFML/doc/SFML.tag"
+      - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/gradle/latest/bin/share/doc/SFML/SFML.tag"
+      - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/gradle/latest/bin/SFML.tag"
+      - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/maven/latest/bin/SFML/doc/SFML.tag"
+      - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/maven/latest/bin/share/doc/SFML/SFML.tag"
+      - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/maven/latest/bin/SFML.tag"
+      - "/opt/homebrew/opt/postgresql@15/bin/SFML/doc/SFML.tag"
+      - "/opt/homebrew/opt/postgresql@15/bin/share/doc/SFML/SFML.tag"
+      - "/opt/homebrew/opt/postgresql@15/bin/SFML.tag"
+      - "/Users/yash/miniconda3/bin/SFML/doc/SFML.tag"
+      - "/Users/yash/miniconda3/bin/share/doc/SFML/SFML.tag"
+      - "/Users/yash/miniconda3/bin/SFML.tag"
+      - "/Users/yash/miniconda3/condabin/SFML/doc/SFML.tag"
+      - "/Users/yash/miniconda3/condabin/share/doc/SFML/SFML.tag"
+      - "/Users/yash/miniconda3/condabin/SFML.tag"
+      - "/opt/homebrew/bin/SFML/doc/SFML.tag"
+      - "/opt/homebrew/bin/share/doc/SFML/SFML.tag"
+      - "/opt/homebrew/bin/SFML.tag"
+      - "/opt/homebrew/sbin/SFML/doc/SFML.tag"
+      - "/opt/homebrew/sbin/share/doc/SFML/SFML.tag"
+      - "/opt/homebrew/sbin/SFML.tag"
+      - "/Library/Frameworks/Python.framework/Versions/3.9/bin/SFML/doc/SFML.tag"
+      - "/Library/Frameworks/Python.framework/Versions/3.9/bin/share/doc/SFML/SFML.tag"
+      - "/Library/Frameworks/Python.framework/Versions/3.9/bin/SFML.tag"
+      - "/Library/Frameworks/Python.framework/Versions/3.11/bin/SFML/doc/SFML.tag"
+      - "/Library/Frameworks/Python.framework/Versions/3.11/bin/share/doc/SFML/SFML.tag"
+      - "/Library/Frameworks/Python.framework/Versions/3.11/bin/SFML.tag"
+      - "/usr/local/bin/SFML/doc/SFML.tag"
+      - "/usr/local/bin/share/doc/SFML/SFML.tag"
+      - "/usr/local/bin/SFML.tag"
+      - "/System/Cryptexes/App/usr/bin/SFML/doc/SFML.tag"
+      - "/System/Cryptexes/App/usr/bin/share/doc/SFML/SFML.tag"
+      - "/System/Cryptexes/App/usr/bin/SFML.tag"
+      - "/usr/bin/SFML/doc/SFML.tag"
+      - "/usr/bin/share/doc/SFML/SFML.tag"
+      - "/usr/bin/SFML.tag"
+      - "/bin/SFML/doc/SFML.tag"
+      - "/bin/share/doc/SFML/SFML.tag"
+      - "/bin/SFML.tag"
+      - "/usr/sbin/SFML/doc/SFML.tag"
+      - "/usr/sbin/share/doc/SFML/SFML.tag"
+      - "/usr/sbin/SFML.tag"
+      - "/sbin/SFML/doc/SFML.tag"
+      - "/sbin/share/doc/SFML/SFML.tag"
+      - "/sbin/SFML.tag"
+      - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/SFML/doc/SFML.tag"
+      - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/share/doc/SFML/SFML.tag"
+      - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/SFML.tag"
+      - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/SFML/doc/SFML.tag"
+      - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/share/doc/SFML/SFML.tag"
+      - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/SFML.tag"
+      - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/SFML/doc/SFML.tag"
+      - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/share/doc/SFML/SFML.tag"
+      - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/SFML.tag"
+      - "/opt/X11/bin/SFML/doc/SFML.tag"
+      - "/opt/X11/bin/share/doc/SFML/SFML.tag"
+      - "/opt/X11/bin/SFML.tag"
+      - "/Library/Apple/usr/bin/SFML/doc/SFML.tag"
+      - "/Library/Apple/usr/bin/share/doc/SFML/SFML.tag"
+      - "/Library/Apple/usr/bin/SFML.tag"
+      - "/Users/yash/Docs/sunswift/infotainment/flutter/bin/SFML/doc/SFML.tag"
+      - "/Users/yash/Docs/sunswift/infotainment/flutter/bin/share/doc/SFML/SFML.tag"
+      - "/Users/yash/Docs/sunswift/infotainment/flutter/bin/SFML.tag"
+      - "/opt/gradle/gradle-8.8/bin/SFML/doc/SFML.tag"
+      - "/opt/gradle/gradle-8.8/bin/share/doc/SFML/SFML.tag"
+      - "/opt/gradle/gradle-8.8/bin/SFML.tag"
+      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts/SFML/doc/SFML.tag"
+      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts/share/doc/SFML/SFML.tag"
+      - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts/SFML.tag"
+      - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/SFML/doc/SFML.tag"
+      - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/share/doc/SFML/SFML.tag"
+      - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/SFML.tag"
+      - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/SFML/doc/SFML.tag"
+      - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/share/doc/SFML/SFML.tag"
+      - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/SFML.tag"
+      - "/opt/homebrew/include/SFML/doc/SFML.tag"
+      - "/opt/homebrew/include/share/doc/SFML/SFML.tag"
+      - "/opt/homebrew/include/SFML.tag"
+      - "/opt/homebrew/SFML/doc/SFML.tag"
+    found: "/opt/homebrew/share/doc/SFML/"
+    search_context:
+      ENV{PATH}:
+        - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/21/bin"
+        - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/gradle/latest/bin"
+        - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/maven/latest/bin"
+        - "/opt/homebrew/opt/postgresql@15/bin"
+        - "/opt/homebrew/opt/postgresql@15/bin"
+        - "/opt/homebrew/opt/postgresql@15/bin"
+        - "/opt/homebrew/opt/postgresql@15/bin"
+        - "/opt/homebrew/opt/postgresql@15/bin"
+        - "/opt/homebrew/opt/postgresql@15/bin"
+        - "/opt/homebrew/opt/postgresql@15/bin"
+        - "/opt/homebrew/opt/postgresql@15/bin"
+        - "/Users/yash/miniconda3/bin"
+        - "/Users/yash/miniconda3/condabin"
+        - "/opt/homebrew/bin"
+        - "/opt/homebrew/sbin"
+        - "/Library/Frameworks/Python.framework/Versions/3.9/bin"
+        - "/Library/Frameworks/Python.framework/Versions/3.11/bin"
+        - "/usr/local/bin"
+        - "/System/Cryptexes/App/usr/bin"
+        - "/usr/bin"
+        - "/bin"
+        - "/usr/sbin"
+        - "/sbin"
+        - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
+        - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
+        - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
+        - "/opt/X11/bin"
+        - "/Library/Apple/usr/bin"
+        - "/Users/yash/Docs/sunswift/infotainment/flutter/bin"
+        - "/opt/gradle/gradle-8.8/bin"
+        - "/opt/gradle/gradle-8.8/bin"
+        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts"
+        - "/opt/gradle/gradle-8.8/bin"
+        - "/opt/gradle/gradle-8.8/bin"
+      CMAKE_INSTALL_PREFIX: "/usr/local"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr"
+        - "/opt/homebrew"
+        - "/usr/local"
+        - "/usr"
+        - "/"
+        - "/opt/homebrew"
+        - "/usr/local"
+        - "/usr/X11R6"
+        - "/usr/pkg"
+        - "/opt"
+        - "/sw"
+        - "/opt/local"
+      CMAKE_SYSTEM_INCLUDE_PATH:
+        - "/usr/include/X11"
+      CMAKE_SYSTEM_FRAMEWORK_PATH:
+        - "~/Library/Frameworks"
+        - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks"
+        - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Network/Library/Frameworks"
+        - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
+        - "/Library/Developer/CommandLineTools/Library/Frameworks"
+        - "/Library/Developer/CommandLineTools/Library/Frameworks"
+        - "/Library/Frameworks"
+        - "/Network/Library/Frameworks"
+        - "/System/Library/Frameworks"
+  -
+    kind: "find_package-v1"
+    backtrace:
+      - "CMakeLists.txt:7 (find_package)"
+    name: "SFML"
+    components:
+      -
+        name: "Graphics"
+        required: true
+        found: false
+      -
+        name: "Window"
+        required: true
+        found: false
+      -
+        name: "System"
+        required: true
+        found: false
+    configs:
+      -
+        filename: "SFMLConfig.cmake"
+        kind: "cmake"
+      -
+        filename: "sfml-config.cmake"
+        kind: "cmake"
+    version_request:
+      exact: false
+    settings:
+      required: "required_explicit"
+      quiet: false
+      global: false
+      policy_scope: true
+      bypass_provider: false
+      names:
+        - "SFML"
+      path_suffixes:
+        - ""
+      paths:
+        CMAKE_FIND_USE_CMAKE_PATH: true
+        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+        CMAKE_FIND_USE_INSTALL_PREFIX: true
+        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
+        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
+        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
+        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
+    candidates:
+      -
+        path: "/Users/yash/Docs/All Projects/cpp_stuff/random-walk-sim/build/CMakeFiles/pkgRedirects/SFMLConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "/Users/yash/Docs/All Projects/cpp_stuff/random-walk-sim/build/CMakeFiles/pkgRedirects/sfml-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/21/SFMLConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/21/sfml-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/gradle/latest/SFMLConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/gradle/latest/sfml-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/maven/latest/SFMLConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/maven/latest/sfml-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "/opt/homebrew/opt/postgresql@15/SFMLConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "/opt/homebrew/opt/postgresql@15/sfml-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "/Users/yash/miniconda3/SFMLConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "/Users/yash/miniconda3/sfml-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "/Users/yash/miniconda3/cmake/SFMLConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "/Users/yash/miniconda3/cmake/sfml-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "/Users/yash/miniconda3/condabin/SFMLConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "/Users/yash/miniconda3/condabin/sfml-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "/opt/homebrew/SFMLConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "/opt/homebrew/sfml-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+    found:
+      path: "/opt/homebrew/lib/cmake/SFML/SFMLConfig.cmake"
+      mode: "config"
+      version: "3.0.2"
+    search_context:
+      ENV{PATH}:
+        - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/21/bin"
+        - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/gradle/latest/bin"
+        - "/Users/yash/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/maven/latest/bin"
+        - "/opt/homebrew/opt/postgresql@15/bin"
+        - "/opt/homebrew/opt/postgresql@15/bin"
+        - "/opt/homebrew/opt/postgresql@15/bin"
+        - "/opt/homebrew/opt/postgresql@15/bin"
+        - "/opt/homebrew/opt/postgresql@15/bin"
+        - "/opt/homebrew/opt/postgresql@15/bin"
+        - "/opt/homebrew/opt/postgresql@15/bin"
+        - "/opt/homebrew/opt/postgresql@15/bin"
+        - "/Users/yash/miniconda3/bin"
+        - "/Users/yash/miniconda3/condabin"
+        - "/opt/homebrew/bin"
+        - "/opt/homebrew/sbin"
+        - "/Library/Frameworks/Python.framework/Versions/3.9/bin"
+        - "/Library/Frameworks/Python.framework/Versions/3.11/bin"
+        - "/usr/local/bin"
+        - "/System/Cryptexes/App/usr/bin"
+        - "/usr/bin"
+        - "/bin"
+        - "/usr/sbin"
+        - "/sbin"
+        - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
+        - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
+        - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
+        - "/opt/X11/bin"
+        - "/Library/Apple/usr/bin"
+        - "/Users/yash/Docs/sunswift/infotainment/flutter/bin"
+        - "/opt/gradle/gradle-8.8/bin"
+        - "/opt/gradle/gradle-8.8/bin"
+        - "/Users/yash/.vscode/extensions/ms-python.debugpy-2025.18.0-darwin-arm64/bundled/scripts/noConfigScripts"
+        - "/opt/gradle/gradle-8.8/bin"
+        - "/opt/gradle/gradle-8.8/bin"
+      CMAKE_INSTALL_PREFIX: "/usr/local"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr"
+        - "/opt/homebrew"
+        - "/usr/local"
+        - "/usr"
+        - "/"
+        - "/opt/homebrew"
+        - "/usr/local"
+        - "/usr/X11R6"
+        - "/usr/pkg"
+        - "/opt"
+        - "/sw"
+        - "/opt/local"
+      CMAKE_SYSTEM_FRAMEWORK_PATH:
+        - "~/Library/Frameworks"
+        - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks"
+        - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Network/Library/Frameworks"
+        - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
+        - "/Library/Developer/CommandLineTools/Library/Frameworks"
+        - "/Library/Developer/CommandLineTools/Library/Frameworks"
+        - "/Library/Frameworks"
+        - "/Network/Library/Frameworks"
+        - "/System/Library/Frameworks"
 ...

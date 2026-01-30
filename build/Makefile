@@ -117,50 +117,24 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named randomwalk_lib
+# Target rules for targets named random_walk_visual
 
 # Build rule for target.
-randomwalk_lib: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 randomwalk_lib
-.PHONY : randomwalk_lib
+random_walk_visual: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 random_walk_visual
+.PHONY : random_walk_visual
 
 # fast build rule for target.
-randomwalk_lib/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/randomwalk_lib.dir/build.make CMakeFiles/randomwalk_lib.dir/build
-.PHONY : randomwalk_lib/fast
-
-#=============================================================================
-# Target rules for targets named random_walk
-
-# Build rule for target.
-random_walk: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 random_walk
-.PHONY : random_walk
-
-# fast build rule for target.
-random_walk/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/random_walk.dir/build.make CMakeFiles/random_walk.dir/build
-.PHONY : random_walk/fast
-
-#=============================================================================
-# Target rules for targets named run_tests
-
-# Build rule for target.
-run_tests: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 run_tests
-.PHONY : run_tests
-
-# fast build rule for target.
-run_tests/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/run_tests.dir/build.make CMakeFiles/run_tests.dir/build
-.PHONY : run_tests/fast
+random_walk_visual/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/random_walk_visual.dir/build.make CMakeFiles/random_walk_visual.dir/build
+.PHONY : random_walk_visual/fast
 
 src/RandomWalk.o: src/RandomWalk.cpp.o
 .PHONY : src/RandomWalk.o
 
 # target to build an object file
 src/RandomWalk.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/randomwalk_lib.dir/build.make CMakeFiles/randomwalk_lib.dir/src/RandomWalk.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/random_walk_visual.dir/build.make CMakeFiles/random_walk_visual.dir/src/RandomWalk.cpp.o
 .PHONY : src/RandomWalk.cpp.o
 
 src/RandomWalk.i: src/RandomWalk.cpp.i
@@ -168,7 +142,7 @@ src/RandomWalk.i: src/RandomWalk.cpp.i
 
 # target to preprocess a source file
 src/RandomWalk.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/randomwalk_lib.dir/build.make CMakeFiles/randomwalk_lib.dir/src/RandomWalk.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/random_walk_visual.dir/build.make CMakeFiles/random_walk_visual.dir/src/RandomWalk.cpp.i
 .PHONY : src/RandomWalk.cpp.i
 
 src/RandomWalk.s: src/RandomWalk.cpp.s
@@ -176,15 +150,39 @@ src/RandomWalk.s: src/RandomWalk.cpp.s
 
 # target to generate assembly for a file
 src/RandomWalk.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/randomwalk_lib.dir/build.make CMakeFiles/randomwalk_lib.dir/src/RandomWalk.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/random_walk_visual.dir/build.make CMakeFiles/random_walk_visual.dir/src/RandomWalk.cpp.s
 .PHONY : src/RandomWalk.cpp.s
+
+src/Renderer.o: src/Renderer.cpp.o
+.PHONY : src/Renderer.o
+
+# target to build an object file
+src/Renderer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/random_walk_visual.dir/build.make CMakeFiles/random_walk_visual.dir/src/Renderer.cpp.o
+.PHONY : src/Renderer.cpp.o
+
+src/Renderer.i: src/Renderer.cpp.i
+.PHONY : src/Renderer.i
+
+# target to preprocess a source file
+src/Renderer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/random_walk_visual.dir/build.make CMakeFiles/random_walk_visual.dir/src/Renderer.cpp.i
+.PHONY : src/Renderer.cpp.i
+
+src/Renderer.s: src/Renderer.cpp.s
+.PHONY : src/Renderer.s
+
+# target to generate assembly for a file
+src/Renderer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/random_walk_visual.dir/build.make CMakeFiles/random_walk_visual.dir/src/Renderer.cpp.s
+.PHONY : src/Renderer.cpp.s
 
 src/Statistics.o: src/Statistics.cpp.o
 .PHONY : src/Statistics.o
 
 # target to build an object file
 src/Statistics.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/randomwalk_lib.dir/build.make CMakeFiles/randomwalk_lib.dir/src/Statistics.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/random_walk_visual.dir/build.make CMakeFiles/random_walk_visual.dir/src/Statistics.cpp.o
 .PHONY : src/Statistics.cpp.o
 
 src/Statistics.i: src/Statistics.cpp.i
@@ -192,7 +190,7 @@ src/Statistics.i: src/Statistics.cpp.i
 
 # target to preprocess a source file
 src/Statistics.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/randomwalk_lib.dir/build.make CMakeFiles/randomwalk_lib.dir/src/Statistics.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/random_walk_visual.dir/build.make CMakeFiles/random_walk_visual.dir/src/Statistics.cpp.i
 .PHONY : src/Statistics.cpp.i
 
 src/Statistics.s: src/Statistics.cpp.s
@@ -200,7 +198,7 @@ src/Statistics.s: src/Statistics.cpp.s
 
 # target to generate assembly for a file
 src/Statistics.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/randomwalk_lib.dir/build.make CMakeFiles/randomwalk_lib.dir/src/Statistics.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/random_walk_visual.dir/build.make CMakeFiles/random_walk_visual.dir/src/Statistics.cpp.s
 .PHONY : src/Statistics.cpp.s
 
 src/Walker.o: src/Walker.cpp.o
@@ -208,7 +206,7 @@ src/Walker.o: src/Walker.cpp.o
 
 # target to build an object file
 src/Walker.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/randomwalk_lib.dir/build.make CMakeFiles/randomwalk_lib.dir/src/Walker.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/random_walk_visual.dir/build.make CMakeFiles/random_walk_visual.dir/src/Walker.cpp.o
 .PHONY : src/Walker.cpp.o
 
 src/Walker.i: src/Walker.cpp.i
@@ -216,7 +214,7 @@ src/Walker.i: src/Walker.cpp.i
 
 # target to preprocess a source file
 src/Walker.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/randomwalk_lib.dir/build.make CMakeFiles/randomwalk_lib.dir/src/Walker.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/random_walk_visual.dir/build.make CMakeFiles/random_walk_visual.dir/src/Walker.cpp.i
 .PHONY : src/Walker.cpp.i
 
 src/Walker.s: src/Walker.cpp.s
@@ -224,7 +222,7 @@ src/Walker.s: src/Walker.cpp.s
 
 # target to generate assembly for a file
 src/Walker.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/randomwalk_lib.dir/build.make CMakeFiles/randomwalk_lib.dir/src/Walker.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/random_walk_visual.dir/build.make CMakeFiles/random_walk_visual.dir/src/Walker.cpp.s
 .PHONY : src/Walker.cpp.s
 
 src/main.o: src/main.cpp.o
@@ -232,7 +230,7 @@ src/main.o: src/main.cpp.o
 
 # target to build an object file
 src/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/random_walk.dir/build.make CMakeFiles/random_walk.dir/src/main.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/random_walk_visual.dir/build.make CMakeFiles/random_walk_visual.dir/src/main.cpp.o
 .PHONY : src/main.cpp.o
 
 src/main.i: src/main.cpp.i
@@ -240,7 +238,7 @@ src/main.i: src/main.cpp.i
 
 # target to preprocess a source file
 src/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/random_walk.dir/build.make CMakeFiles/random_walk.dir/src/main.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/random_walk_visual.dir/build.make CMakeFiles/random_walk_visual.dir/src/main.cpp.i
 .PHONY : src/main.cpp.i
 
 src/main.s: src/main.cpp.s
@@ -248,32 +246,8 @@ src/main.s: src/main.cpp.s
 
 # target to generate assembly for a file
 src/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/random_walk.dir/build.make CMakeFiles/random_walk.dir/src/main.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/random_walk_visual.dir/build.make CMakeFiles/random_walk_visual.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
-
-tests/test_stats.o: tests/test_stats.cpp.o
-.PHONY : tests/test_stats.o
-
-# target to build an object file
-tests/test_stats.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/run_tests.dir/build.make CMakeFiles/run_tests.dir/tests/test_stats.cpp.o
-.PHONY : tests/test_stats.cpp.o
-
-tests/test_stats.i: tests/test_stats.cpp.i
-.PHONY : tests/test_stats.i
-
-# target to preprocess a source file
-tests/test_stats.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/run_tests.dir/build.make CMakeFiles/run_tests.dir/tests/test_stats.cpp.i
-.PHONY : tests/test_stats.cpp.i
-
-tests/test_stats.s: tests/test_stats.cpp.s
-.PHONY : tests/test_stats.s
-
-# target to generate assembly for a file
-tests/test_stats.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/run_tests.dir/build.make CMakeFiles/run_tests.dir/tests/test_stats.cpp.s
-.PHONY : tests/test_stats.cpp.s
 
 # Help Target
 help:
@@ -283,12 +257,13 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... random_walk"
-	@echo "... randomwalk_lib"
-	@echo "... run_tests"
+	@echo "... random_walk_visual"
 	@echo "... src/RandomWalk.o"
 	@echo "... src/RandomWalk.i"
 	@echo "... src/RandomWalk.s"
+	@echo "... src/Renderer.o"
+	@echo "... src/Renderer.i"
+	@echo "... src/Renderer.s"
 	@echo "... src/Statistics.o"
 	@echo "... src/Statistics.i"
 	@echo "... src/Statistics.s"
@@ -298,9 +273,6 @@ help:
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
-	@echo "... tests/test_stats.o"
-	@echo "... tests/test_stats.i"
-	@echo "... tests/test_stats.s"
 .PHONY : help
 
 

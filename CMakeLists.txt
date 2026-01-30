@@ -1,19 +1,24 @@
-cmake_minimum_required(VERSION 3.12)
-project(RandomWalkSimulator LANGUAGES CXX)
+cmake_minimum_required(VERSION 3.15)
+project(RandomWalkVisualizer LANGUAGES CXX)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-add_library(randomwalk_lib
+find_package(SFML CONFIG REQUIRED COMPONENTS Graphics Window System)
+
+add_executable(random_walk_visual
+    src/main.cpp
     src/Walker.cpp
     src/RandomWalk.cpp
     src/Statistics.cpp
+    src/Renderer.cpp
 )
 
-target_include_directories(randomwalk_lib PUBLIC include)
+target_include_directories(random_walk_visual PRIVATE include)
 
-add_executable(random_walk src/main.cpp)
-target_link_libraries(random_walk PRIVATE randomwalk_lib)
-
-add_executable(run_tests tests/test_stats.cpp)
-target_link_libraries(run_tests PRIVATE randomwalk_lib)
+target_link_libraries(random_walk_visual
+    PRIVATE
+        SFML::Graphics
+        SFML::Window
+        SFML::System
+)

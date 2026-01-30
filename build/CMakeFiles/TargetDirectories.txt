@@ -1,5 +1,3 @@
-/Users/yash/Docs/All Projects/cpp_stuff/random-walk-sim/build/CMakeFiles/randomwalk_lib.dir
-/Users/yash/Docs/All Projects/cpp_stuff/random-walk-sim/build/CMakeFiles/random_walk.dir
-/Users/yash/Docs/All Projects/cpp_stuff/random-walk-sim/build/CMakeFiles/run_tests.dir
+/Users/yash/Docs/All Projects/cpp_stuff/random-walk-sim/build/CMakeFiles/random_walk_visual.dir
 /Users/yash/Docs/All Projects/cpp_stuff/random-walk-sim/build/CMakeFiles/edit_cache.dir
 /Users/yash/Docs/All Projects/cpp_stuff/random-walk-sim/build/CMakeFiles/rebuild_cache.dir
